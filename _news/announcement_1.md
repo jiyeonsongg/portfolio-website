@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from Edmonds College with an Associated of Science degree
+Earned an Associate of Science degree from Edmonds College
