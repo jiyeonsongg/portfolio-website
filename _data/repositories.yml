@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jiyeonsongg
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jiyeonsongg/capstone1-medical-replication
+  - jiyeonsongg/f1-data-visualization-d3js
+  - jiyeonsongg/league-of-legends-analysis
+  - radiangle/pneumonia-classification
+  - jiyeonsongg/data-mining-challenge
