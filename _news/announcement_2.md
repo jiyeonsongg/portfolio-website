@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Pursuing a Bachelor of Science degree at the University of California, San Diego
+date: 2021-09-27 16:11:00-0400
 inline: false
 related_posts: false
 ---
