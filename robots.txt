@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiyeonsongg.github.io/sitemap.xml
+Sitemap: https://jiyeonsongg.github.io/portfolio-website/sitemap.xml
